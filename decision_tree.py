@@ -1,9 +1,13 @@
 #-------------------------------------------------------------------------
-# AUTHOR: your name
-# FILENAME: title of the source file
-# SPECIFICATION: description of the program
+# AUTHOR: Alondra Marin
+# FILENAME: decision_tree.py
+# SPECIFICATION: A small description of the program would be, that it first begins with reading a CSV file named
+# 'contact_lens.csv' and preprocesses it, converting categorical values into numerical representations. This data is
+# then used to train a decision tree classifier with an entropy-based criterion for splitting nodes.The code then
+# generates a visual representation of the trained decision tree.
 # FOR: CS 4210- Assignment #1
-# TIME SPENT: how long it took you to complete the assignment
+# TIME SPENT: how long it took you to complete the assignment it took me a few days mostly the whole week
+# to complete this assignment.
 #-----------------------------------------------------------*/
 #IMPORTANT NOTE: DO NOT USE ANY ADVANCED PYTHON LIBRARY TO COMPLETE THIS CODE SUCH
 #AS numpy OR pandas. You have to work here only with standard
